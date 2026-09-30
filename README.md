@@ -27,7 +27,7 @@ The dataset contains **32,581 loans** with information related to borrowers and 
 
 ## 🛠️ Tools & Technologies
 
-- **SQL**
+**SQL**
 - SQL aggregation functions
 - `CASE` statements
 - Common Table Expressions (CTEs)
